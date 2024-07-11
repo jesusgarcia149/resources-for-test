@@ -1,2 +1,2 @@
-# CrystalDiskMark
-https://crystalmark.info/en/software/crystaldiskmark/
+# Windows
+https://github.com/jesusgarcia149/resources-for-test/tree/Windows-Updated
