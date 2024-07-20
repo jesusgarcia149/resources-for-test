@@ -3,3 +3,6 @@ https://crystalmark.info/en/software/crystaldiskmark/
 
 # AS SSD Benchark
 https://www.techspot.com/downloads/6014-as-ssd-benchmark.html
+
+# EasyBCD
+https://www.majorgeeks.com/mg/getmirror/easybcd,1.html
