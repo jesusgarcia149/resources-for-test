@@ -15,3 +15,15 @@ https://www.dposoft.net/rbd.html
 
 # Onboard Memory Manager (is a utility for pro gamers to quickly view, customize, and fine-tune the onboard memory of a compatible Logitech G mouse)
 https://support.logi.com/hc/en-us/articles/360059641133-Onboard-Memory-Manager
+
+# OpenRGB (Open source RGB lighting control that doesn't depend on manufacturer software)
+https://openrgb.org/#downloads
+
+# OCCT (Show off your system's capabilities with OCCT's built-in benchmarks : CPU and Memory scores, and also latency & bandwidth measures)
+https://www.ocbase.com/download
+
+# OpenSpeedTest (NetSpeed)
+https://openspeedtest.com/selfhosted-speedtest#Desktop-Mobile-Apps
+
+# Geek Uninstaller (Apps Uninstaller)
+https://geekuninstaller.com/es
