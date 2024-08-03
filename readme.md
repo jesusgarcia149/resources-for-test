@@ -6,6 +6,10 @@ https://www.techspot.com/downloads/6014-as-ssd-benchmark.html
 
 # EasyBCD (Boot Manager)
 https://www.majorgeeks.com/mg/getmirror/easybcd,1.html
+### Portable
+https://archive.org/details/EasyBCD.v2.3.0.207.Portable
+#### Direct Link
+https://archive.org/download/EasyBCD.v2.3.0.207.Portable/EasyBCD.v2.3.0.207.Portable.rar
 
 # WizTree (Disk Space Analyzer)
 https://diskanalyzer.com/
