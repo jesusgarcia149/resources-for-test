@@ -31,3 +31,6 @@ https://openspeedtest.com/selfhosted-speedtest#Desktop-Mobile-Apps
 
 # Geek Uninstaller (Apps Uninstaller)
 https://geekuninstaller.com/es
+
+# Return
+https://github.com/jesusgarcia149/resources-for-test/blob/main/readme.md
